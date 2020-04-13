@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe8c0181-feb1-4e50-a6bb-cffa9ac46c40" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="decimal-converter" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZnUr8OWTAAnzXcRYNeEUstrPz3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="academy.learnprogramming" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TeenNumber">
+    <configuration name="DecimalConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.DecimalConverter" />
+      <module name="decimal-converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.Main" />
+      <module name="decimal-converter" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.TeenNumber" />
+      <module name="decimal-converter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DecimalConverter" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TeenNumber" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TeenNumber" />
+        <item itemvalue="Application.DecimalConverter" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe8c0181-feb1-4e50-a6bb-cffa9ac46c40" name="Default Changelist" comment="" />
+      <created>1585474547822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585474547822</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585476223307">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585476223307" />
+    <state x="627" y="282" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585476222520">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="627" y="282" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585476222520" />
+    <state x="658" y="173" key="#xdebugger.evaluate" timestamp="1585476701002">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="658" y="173" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1585476701002" />
+    <state x="689" y="221" key="FileChooserDialogImpl" timestamp="1585554912595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="221" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1585554912595" />
+    <state width="1865" height="348" key="GridCell.Tab.0.bottom" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.0.center" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.0.left" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.0.right" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.1.bottom" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.1.center" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.1.left" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state width="1865" height="348" key="GridCell.Tab.1.right" timestamp="1585485931636">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1865" height="348" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585485931636" />
+    <state x="591" y="322" key="com.intellij.ide.util.TipDialog" timestamp="1585554862506">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="591" y="322" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585554862506" />
+    <state x="230" y="73" key="new project wizard" timestamp="1585554914556">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="230" y="73" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1585554914556" />
+  </component>
+</project>

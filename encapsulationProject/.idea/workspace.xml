@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68cd4351-c884-498f-b0b5-595037a4459a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRUYqNRp8zzlKgS9O7zHJBXd1A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.encapsulation.Main" />
+      <module name="encapsulationProject" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68cd4351-c884-498f-b0b5-595037a4459a" name="Default Changelist" comment="" />
+      <created>1586697949281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586697949281</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="721" y="189" key="#com.intellij.ide.util.MemberChooser" timestamp="1586698182026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="721" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586698182026" />
+    <state x="681" y="239" key="FileChooserDialogImpl" timestamp="1586763256517">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586763256517" />
+    <state x="446" y="173" key="NewModule_or_Project.wizard" timestamp="1586762782473">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="446" y="173" key="NewModule_or_Project.wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1586762782473" />
+    <state x="548" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1586701237136">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="324" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586701237136" />
+  </component>
+</project>
