@@ -1,9 +1,5 @@
 package academy.learnprogramming;
 
-import com.sun.jdi.Value;
-import org.w3c.dom.ls.LSOutput;
-
-
 public class SecondsAndMinutes {
     private static final String INVALID_VALUE_MESSAGE = "Invalid_value";
     public static String getDurationString(int minutes, int seconds) {

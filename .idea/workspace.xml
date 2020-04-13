@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2644cab-44f6-4d40-86f5-355b4d98dc19" name="Default Changelist" comment="" />
+    <list default="true" id="a2644cab-44f6-4d40-86f5-355b4d98dc19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/duration-string/src/academy/learnprogramming/SecondsAndMinutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/duration-string/src/academy/learnprogramming/SecondsAndMinutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulationProject/src/academy/learnprogramming/encapsulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulationProject/src/academy/learnprogramming/encapsulation/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../encapsulationProject" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -50,18 +54,30 @@
       <option name="project" value="LOCAL" />
       <updated>1586763120643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MY java practice projects from udemy...">
+      <created>1586763404838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586763404838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="printer program of encapsulation concepts" />
-    <option name="LAST_COMMIT_MESSAGE" value="printer program of encapsulation concepts" />
+    <MESSAGE value="MY java practice projects from udemy..." />
+    <option name="LAST_COMMIT_MESSAGE" value="MY java practice projects from udemy..." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="422" y="70" key="CommitChangelistDialog2" timestamp="1586763330597">
+    <state x="422" y="70" key="CommitChangelistDialog2" timestamp="1586763396943">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="422" y="70" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586763330597" />
+    <state x="422" y="70" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1586763396943" />
+    <state x="681" y="239" key="FileChooserDialogImpl" timestamp="1586763744172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="681" y="239" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586763744172" />
     <state x="452" y="209" key="Vcs.Push.Dialog.v2" timestamp="1586763150878">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
