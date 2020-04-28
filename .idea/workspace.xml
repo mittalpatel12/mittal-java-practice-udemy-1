@@ -49,7 +49,20 @@
       <recent name="F:\mittal-projects\mittal-java-practice-udemy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AreaCalculator">
+    <configuration name="AreaCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.AreaCalculator" />
+      <module name="mittal-java-practice-udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="academy.learnprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="academy.learnprogramming.bankapplication.Main" />
       <module name="bankApplication" />
@@ -65,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreaCalculator" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
