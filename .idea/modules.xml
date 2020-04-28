@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/auto-boxing/auto-boxing.iml" filepath="$PROJECT_DIR$/auto-boxing/auto-boxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bankApplication/bankApplication.iml" filepath="$PROJECT_DIR$/bankApplication/bankApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/mittal-java-practice-udemy.iml" filepath="$PROJECT_DIR$/mittal-java-practice-udemy.iml" />
     </modules>
   </component>
